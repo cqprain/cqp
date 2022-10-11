@@ -1,0 +1,21 @@
+{
+    "name": "cqp/blog",
+    "description": "this is a test package",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Cqp\\": "src/cqp/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chenqipeng",
+            "email": "1936349832@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
