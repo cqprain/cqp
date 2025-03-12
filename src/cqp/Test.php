@@ -3,6 +3,6 @@ namespace Cqp;
 class Test
 {
     public function hello(){
-        echo "hello world1";
+        echo "hello world12";
     }
 }
